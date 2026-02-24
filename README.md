@@ -73,8 +73,8 @@ The analysis covers data from 2013 to 2024, offering valuable insights into list
 
 This repository showcases a Power BI report hosted on the Power BI Service, along with its underlying data model. Below are pdfs of the report and the data model for a quick preview:
 
-- [Data Model](https://github.com/Joyeta16/Spotify-Wrapped-Overview/blob/main/Spotify%20Data%20Model.pdf)
-- [Spotify Wrapped Dashboard](https://github.com/Joyeta16/Spotify-Wrapped-Overview/blob/main/Spotify%20Dashboard.pdf)
+- [Data Model](https://github.com/MuskanNarayanGit123/Spotify-Wrapped-Overview/blob/main/Spotify%20Data%20Model.pdf)
+- [Spotify Wrapped Dashboard](https://github.com/MuskanNarayanGit123/Spotify-Wrapped-Overview/blob/main/Spotify%20Dashboard.pdf)
 
 
 ## 💡 Key Insights
@@ -138,7 +138,6 @@ This repository showcases a Power BI report hosted on the Power BI Service, alon
 - Data Analysis: DAX
 
 ## 📎 Links
-🌐 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7288082253304188928/)  
 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzIxOGQzZTctMzU3Zi00N2JlLWFiYzUtODA2YmI5OWE5NjFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🧠 Skills Gained
